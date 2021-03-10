@@ -1,0 +1,92 @@
+Hi! I'm glad you downloaded my game! 
+If you're interested here's what I added.
+
+(+ Add, - Took away, ~ Changed, = Extra)
+
+0.4 3/29/18 The light update
+- Fixed wall glitch bug
+- Fixed jumping bug 
+- Fixed bridge clipping issue 
+- Fixed graphical bridge issue 
+- Entity right walking glitch 
+= Stones no longer have collision
++ Added weapons 
+~ Change fighting to be detected by weapon
++ Cannibals
+= There is an alpha cannibal
++ Added bounding box shortcut "b" 
++ Added highlight to buttons 
++ Menu graphics 
++ Sliders don't drag fixed 
+~ Change health bars to green with a red background 
++ Health bars show names
++ Esc menu
+~ Change inventory shortcut from esc to z
++ Added music 
++ Added sounds
++ Sun and moon 
++ Stars
++ Time 
++ Lights 
++ Menu
++ Options screen
++ World selection screen
+~ Transfered FPS slider to the options menu
++ Ability to scale game display size 
++ Ability to change time speed 
++ Open custom world files!
++ Read changelog and new Instructions inside of the program
+~ Quit doesn't close the program window for some reason
+
+0.3 3/11/18 The game quality update
+- No more Lag
++ Added a slight amount of more level
++ Inventory
+= Esc to open inventory
++ Honey
++ Fox fur
++ Butterfly wing
++ Respawn button and Start button
+= Start button not shown because Menu not implemented
++ Health and Health bars
++ Fighting system
+= Needs LOTS of improvement
++ Sliders
+= FPS Slider
+= Possibly lead to level cutomization..?
+~ Inventory replaces onscreen gui
+~ Improved Dirt Tileset
+~ Loads game in two seconds from original minute+
+~ Particle system changed into Item system
+
+0.2 3/5/18
+- Wall jumping bug
++ Changelog!
++ Wind and clouds
++ Petals and Metal Objects
+= Petals flow in the wind
++ Foxes!
+= Fox AI was improved multiple times
++ Bridge tile
++ Gui displaying lives and items
+= The original plan for Petals and Metal, was to just click stone or flowers to get them
+~ Shows id for entities when they get showed in the log
+
+0.1 3/3/18
++Butterflies
++Bees
++Flowers
++Stone
+~GrassTileset was a little funky
++Player Animations
++Sky color
+
+0.0 12/?/17
++Physics
++GrassTiles
++TreeTiles
++Player
++Worlds
+
+-? ?/?/17
+Anything else was previously developed and cannot be reached

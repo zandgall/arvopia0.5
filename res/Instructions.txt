@@ -1,0 +1,42 @@
+How to Play: 
+
+WASD or Arrow Keys: Move
+
+Mouse: Click to punch/attack or click to collect from stones or flowers
+
+1: Choose fists
+2: Choose Sword
+3: Choose Torch
+(Must use top keys instead of numpad keys)
+
+
+Options:
+
+FPS: Changes how fast the game is
+
+Time speed: Changes how fast time goes by in game
+
+Scale: Changes how zoomed in you are in the game
+
+Light Quality: Lower values = smoother lights
+
+Slider Debug: Toggle this if sliders aren't working properly
+
+
+World Select:
+
+World three or four strongly reccomended
+
+World one: original world
+
+World two: single plain
+
+World three: 0.3 world 
+
+World four: New world
+
+World five: Staircase that was used for debugging
+
+Default: The world that will load if you try to load in a broken world (See Open World)
+
+Open World: Open a custom world (Check website)
